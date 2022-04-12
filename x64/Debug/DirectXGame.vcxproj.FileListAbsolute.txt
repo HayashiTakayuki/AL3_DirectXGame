@@ -1,0 +1,3 @@
+C:\Users\林　嵩之\OneDrive\デスクトップ\KamataEngine202204011.zip.drag\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\Users\林　嵩之\OneDrive\デスクトップ\AL3\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\Users\林　嵩之\OneDrive\デスクトップ\AL3_0\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
